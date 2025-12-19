@@ -1,1 +1,1 @@
-To run use java Router command in the Terminal
+To run use "java Router" command in the Terminal
